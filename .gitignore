@@ -1,0 +1,7 @@
+.env
+*.log
+logs/
+node_modules/
+vendor/
+*.sql
+config.local.php
